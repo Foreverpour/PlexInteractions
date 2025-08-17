@@ -1,0 +1,22 @@
+
+---
+
+### 🚫 3. Add a `.gitignore` File
+
+Yes—especially if you plan to expand this repo. Here's a solid starter:
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.m3u
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
